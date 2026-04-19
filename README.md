@@ -30,4 +30,7 @@ StringHandlingDemo.java:https://github.com/DhanyaVA/Java-Programs/blob/main/3a%2
 
 q1.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q1%20output.png
 
+q2.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q2%20output.png
+
+
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
