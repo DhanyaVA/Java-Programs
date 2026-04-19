@@ -46,4 +46,6 @@ q8.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q8%20output.png
 
 q9.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q9%20output.png
 
+q10.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q10%20output.png
+
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
