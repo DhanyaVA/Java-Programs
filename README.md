@@ -1,5 +1,6 @@
 # Java-Programs
 ListInterfaceDemo.java:https://github.com/DhanyaVA/Java-Programs/blob/main/ListInterfaceOutput.png
 p1.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p1%20output.png
+p2.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p2%20output.png
 
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
