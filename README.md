@@ -2,4 +2,4 @@
 
 
 
-p2.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p2%20output.png
+p3.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p3%20output.png
