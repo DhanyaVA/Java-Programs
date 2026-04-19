@@ -22,4 +22,6 @@ p10.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p10%20output.png
 
 StringOperationDemo.java:https://github.com/DhanyaVA/Java-Programs/blob/main/2a%20output.png
 
+PerformanceTest.java:https://github.com/DhanyaVA/Java-Programs/blob/main/2b%20output.png
+
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
