@@ -5,5 +5,5 @@ p2.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p2%20output.png
 p3.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p3%20output.png
 p4.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p4%20output.png
 p5.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p5%20output.png
-
+p6.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p6%20output.png
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
