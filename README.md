@@ -56,4 +56,6 @@ ImageButtonExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/4c%2
 
 JListExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5a%20output.png
 
+TabbedPaneExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5b%20output.png
+
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
