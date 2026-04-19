@@ -1,1 +1,1 @@
-https://github.com/DhanyaVA/Java-Programs/blob/P6a/p6a%20output.png
+p6a.java:https://github.com/DhanyaVA/Java-Programs/blob/P6a/p6a%20output.png
