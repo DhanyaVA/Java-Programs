@@ -1,3 +1,3 @@
 # Java-Programs
 
-TabbedPaneExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5b%20output.png
+CountryCapitalList.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5c%20output.png
