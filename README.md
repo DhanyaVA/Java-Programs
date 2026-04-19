@@ -1,4 +1,4 @@
 # Java-Programs
 
 
-q3.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q3%20output.png
+q4.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q4%20output.png
