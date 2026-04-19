@@ -1,3 +1,3 @@
 # Java-Programs
 
-JListExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5a%20output.png
+TabbedPaneExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5b%20output.png
