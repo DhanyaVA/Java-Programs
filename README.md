@@ -1,4 +1,4 @@
 # Java-Programs
 
 
-p9.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p9%20output.png
+p10.java:https://github.com/DhanyaVA/Java-Programs/blob/main/p10%20output.png
