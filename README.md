@@ -1,3 +1,3 @@
 # Java-Programs
 
-q9.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q9%20output.png
+q10.java:https://github.com/DhanyaVA/Java-Programs/blob/main/q10%20output.png
