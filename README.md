@@ -52,4 +52,6 @@ SwingExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/4a%20outpu
 
 ButtonExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/4b%20output.png
 
+ImageButtonExample.java:https://github.com/DhanyaVA/Java-Programs/blob/main/4c%20output.png
+
 TabbedPaneColors.java:https://github.com/DhanyaVA/Java-Programs/blob/main/5d%20output.png
